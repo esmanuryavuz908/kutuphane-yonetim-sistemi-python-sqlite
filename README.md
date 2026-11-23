@@ -166,8 +166,3 @@ Projeyi yerel ortamınızda çalıştırmak için bilgisayarınızda **Python 3*
 - [ ] Raporları CSV formatında dışa aktarma
 
 ---
-
-## 👤 Geliştirici ve Lisans
-
-**Esmanur Yavuz**  
-Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.

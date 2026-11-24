@@ -115,7 +115,8 @@ Projeyi yerel ortamınızda çalıştırmak için bilgisayarınızda **Python 3*
 
 1. **Depoyu klonlayın:**
    ```bash
-   git clone [https://github.com/KULLANICI_ADIN/kutuphane-yonetim-sistemi-python-sqlite.git](https://github.com/esmanuryavuz908/kutuphane-yonetim-sistemi-python-sqlite.git)
+   git clone https://github.com/esmanuryavuz908/kutuphane-yonetim-sistemi-python-sqlite.git
+   cd kutuphane-yonetim-sistemi-python-sqlite
    ```
 
 2. **Proje dizinine geçin:**
